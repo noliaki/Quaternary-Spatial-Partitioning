@@ -1,0 +1,32 @@
+{
+  "name": "new-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://noliaki@github.com/noliaki/new-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noliaki/new-site/issues"
+  },
+  "homepage": "https://github.com/noliaki/new-site#readme",
+  "devDependencies": {
+    "browser-sync": "^2.7.10",
+    "gulp": "^3.8.11",
+    "gulp-babel": "^5.2.0",
+    "gulp-ejs": "^1.1.0",
+    "gulp-imagemin": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-ruby-sass": "^1.0.0-alpha.3",
+    "gulp-yuicompressor": "0.0.3",
+    "imagemin-pngquant": "^4.0.0",
+    "rimraf": "^2.4.0",
+    "run-sequence": "^1.1.0"
+  }
+}
